@@ -13,5 +13,5 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://aishack.in/static/img/tut/sift-result.jpg">
+  <img width="460" height="300" src="https://github.com/Neel14-stack/Computer-Vision/blob/main/Scale%20Variant%20Feature%20Transform/sift_keypoints.jpg">
 </p>
